@@ -1,0 +1,130 @@
+
+
+#topbar {
+	background-image: "images/fdog.JPG";
+	height: 150px;
+}
+
+body {
+	font-family: 'Raleway', sans-serif;
+}
+
+h1 {
+	text-align: center;
+}
+
+h3 {
+	text-align: center;
+	color: #fbfaf7;
+	background-color: #3a52d6;
+	margin-top: 30px;
+}
+
+
+h4 {
+	margin-top: 0;
+	margin-bottom: 0;
+	font-size: 16;
+}
+
+ul {
+	padding-top: 0;
+	margin-top: 0;
+	padding-bottom: 0;
+	margin-bottom: 0;
+}
+
+strong {
+	font-family: 'Montserrat', sans-serif;
+}
+
+ul#menu {
+	width: auto;
+	text-align: center;
+	list-style-type: none;
+}
+
+li#menu {
+	text-align: center;
+	display: inline-block;
+	font-size: 18px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+div#menu {
+	background-color: black;
+	max-width: 1000px;
+	margin: 0 auto;
+}
+
+a {
+	color: grey;
+}
+
+div#fernando{
+	background-image: url(../images/fdog.JPG);
+	height: 500px;
+	background-size: cover;
+}
+
+div.content{
+	border: 2px solid black;
+	padding: 50px;
+	font-size: 16;
+	max-width: 1000px;
+	margin: 0 auto;
+	min-width: 500px;
+	min-height: 250px;
+	text-align: center;
+}
+
+img {
+   display:inline-block;
+/*   margin:0 auto;*/
+   max-height: 200px;
+
+}
+
+img.portfoliopics {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#photo {
+	display: block;
+	float:left;
+}
+
+/*img#profile {
+	display: block;
+	margin-left: 0;
+/*	margin-right: auto;
+}*/
+
+div#about {
+	float: left;
+	display: block;
+	margin-left: auto;
+	margin-right: 0;
+	width:300px;
+	padding-left: 20px;
+}
+
+#experienceImage, #educationImage {
+	display: block;
+	text-align: center;
+	margin: 0 auto;
+}
+
+#pAbout{
+	max-width: 700px;
+	text-align: center;
+	margin: 0 auto;
+	font-size: 24px;
+}
+
+#experience, #education {
+	text-align: left;
+}
